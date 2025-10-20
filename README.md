@@ -1,2 +1,1 @@
-# Hr-Dashbaord
-This project is an interactive HR Dashboard designed in Power BI to provide actionable insights into employee demographics, performance, and salary distribution.
+## The HR Dashboard offers a comprehensive view of workforce metrics, helping HR managers and executives quickly assess key areas such as employee count, gender ratio, salary distribution, departmental strength, and marital status.
