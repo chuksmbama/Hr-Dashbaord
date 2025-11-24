@@ -5,28 +5,5 @@
 - DAX for KPI calculations and data modelling
 - Excel/CSV for data preparation and cleaning
 
-## KPIs Implemented 
-- total Employees 
-- Active Workers (%)
-- Gender Distribution (Male vs Female)
-- Sum of salary by rating
-- Total employees by department
-- Total Employees by marital status
-
-## Key Insights & Features
-- Total Employees: 1,470 with 84% active
-- Gender Distribution: 60% male and 40% female employees 
-- Department overview: Research and development leads with 65% of the workforce 
-- Salary Analysis: Salary breakdown by performance rating and department
-- Marital status insights: Proportion of married, single and divorced employees
-
-## Business Value
-This dashboard empowers HR and management teams to
-- Track workforce composititon and trends 
-- Identify gender or departmental imbalances
-- Monitor performance-based salary distribution 
-- Support data-driven HR decision making
-
-<img width="1383" height="773" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/9b029983-b052-4359-9a59-ca98ddeda33c" />
-<img width="1385" height="794" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/1b319848-0452-4788-914e-8d353246c0c7" />
-
+<img width="1486" height="821" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/e2c09e51-90de-4de2-9d24-e88944a071c2" />
+<img width="1488" height="831" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/263bc9a6-3d04-449a-bcc2-b6c5eda31526" />
